@@ -1,6 +1,9 @@
 
 export default {
   mode: 'spa',
+  router: {
+    base: '/demo-github/'
+  },
   /*
   ** Headers of the page
   */
